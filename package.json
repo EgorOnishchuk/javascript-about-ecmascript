@@ -1,0 +1,23 @@
+{
+  "name": "continuation-of-javascript",
+  "version": "1.0.0",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EgorOnishchuk/continuation-of-javascript.git"
+  },
+  "private": true,
+  "prettier": {
+    "useTabs": true,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
